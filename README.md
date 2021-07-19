@@ -1,8 +1,5 @@
 # Hi :wave:, I'm Sebastian
 Frontend developer from Poland
-```js
-import frontendDeveloper from 'sebast4an';
-```
 
 -  :yellow_heart: JavaScript
 
@@ -11,5 +8,4 @@ import frontendDeveloper from 'sebast4an';
 - :bulb: I public my experiments in CSS on [CodePen](https://codepen.io/sebast4an)  
 
 - :black_nib: I sometimes write articles on my blog [interesujacyblog.pl](https://interesujacyblog.pl/)
-
 
