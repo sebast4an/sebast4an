@@ -1,5 +1,5 @@
 # Hi :wave:, I'm Sebastian
-Frontend developer from Poland
+I'm a frontend developer from Poland. I love JavaScript ecosystem and experiments in CSS. I never stop learning, currently developing my skills in React.
 
 -  :yellow_heart: JavaScript
 
