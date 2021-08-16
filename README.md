@@ -3,7 +3,7 @@ I'm a frontend developer from Poland. I love JavaScript ecosystem and experiment
 
 -  :yellow_heart: JavaScript
 
--  :computer: I’m currently working on [onlineStore (vanillaJS)](https://github.com/sebast4an/Online-store-vanillaJS)  
+-  :computer: I’m currently working on [Cat Cafe Mruczkowo in Gliwice)](https://github.com/sebast4an/cat-cafe-mruczkowo-website)  
 
 - :bulb: I public my experiments in CSS on [CodePen](https://codepen.io/sebast4an)  
 
