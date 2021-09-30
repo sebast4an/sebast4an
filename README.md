@@ -9,7 +9,7 @@ I'm a frontend developer from Poland. I love JavaScript ecosystem and experiment
 
 - :black_nib: I sometimes write articles on my blog [interesujacyblog.pl](https://interesujacyblog.pl/)
 
-## Technologies:
+## Skills:
 [![image](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Sass-bf4080?logo=sass&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)](https://github.com/sebast4an)
 
 [![image](https://img.shields.io/badge/-JavaScript-F0DB0F?logo=JavaScript&logoColor=1a1a00&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Webpack-1d72b3?logo=webpack&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-ESlint-4930bd?logo=eslint&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Prettier-30444f?logo=prettier&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Babel-474844?logo=babel&logoColor=white&style=flat-square)](https://github.com/sebast4an)
