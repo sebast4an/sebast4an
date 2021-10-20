@@ -18,4 +18,4 @@ I'm a frontend developer from Poland. I love JavaScript ecosystem and experiment
 
 
 ### Currently learning:
-[![image](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-StyledComponents-dd5d87?logo=styled-components&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Jest-darkred?logo=jest&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+[![image](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-StyledComponents-dd5d87?logo=styled-components&logoColor=white&style=flat-square)](https://github.com/sebast4an)
