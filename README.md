@@ -1,16 +1,17 @@
 # Hi :wave:, I'm Sebastian
 I'm a frontend developer from Poland. I love JavaScript ecosystem and experiments in CSS. I never stop learning.
 
--  :computer:   I’m currently working on private project
-
 - :bulb:   I public my experiments in CSS on [CodePen](https://codepen.io/sebast4an)  
 
 - :black_nib:   I sometimes write articles on my blog [interesujacyblog.pl](https://interesujacyblog.pl/)
 
 ## Skills:
-[![image](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Sass-bf4080?logo=sass&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+[![image](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Sass-bf4080?logo=sass&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-JavaScript-F0DB0F?logo=JavaScript&logoColor=1a1a00&style=flat-square)](https://github.com/sebast4an)
 
-[![image](https://img.shields.io/badge/-JavaScript-F0DB0F?logo=JavaScript&logoColor=1a1a00&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Webpack-1d72b3?logo=webpack&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-ESlint-4930bd?logo=eslint&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Prettier-30444f?logo=prettier&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Babel-474844?logo=babel&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+[![image](https://img.shields.io/badge/-React-07a9d2?logo=React&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-React%20Router-CA4245?logo=React%20Router&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-StyledComponents-dd5d87?logo=styled-components&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+
+
+[![image](https://img.shields.io/badge/-Webpack-1d72b3?logo=webpack&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-ESlint-4930bd?logo=eslint&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Prettier-30444f?logo=prettier&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Babel-474844?logo=babel&logoColor=white&style=flat-square)](https://github.com/sebast4an)
 
 [![image](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Git-red?logo=git&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu%20bash&logoColor=white&style=flat-square)](https://github.com/sebast4an) 
 
@@ -18,4 +19,5 @@ I'm a frontend developer from Poland. I love JavaScript ecosystem and experiment
 
 
 ### Currently learning:
-[![image](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-StyledComponents-dd5d87?logo=styled-components&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+
+[![image](https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Jest-darkred?logo=jest&logoColor=white&style=flat-square)](https://github.com/sebast4an)
