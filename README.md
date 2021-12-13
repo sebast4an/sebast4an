@@ -20,4 +20,6 @@ I'm a frontend developer from Poland. I love JavaScript ecosystem and experiment
 
 ### Currently learning:
 
-[![image](https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Jest-darkred?logo=jest&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+[![image](https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat-square)](https://github.com/sebast4an)
+
+
