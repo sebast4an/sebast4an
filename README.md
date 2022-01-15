@@ -1,10 +1,6 @@
 # Hi :wave:, I'm Sebastian
 I'm a frontend developer from Poland. I love JavaScript ecosystem and experiments in CSS. I never stop learning.
 
-- :bulb:   I public my experiments in CSS on [CodePen](https://codepen.io/sebast4an)  
-
-- :black_nib:   I sometimes write articles on my blog [interesujacyblog.pl](https://interesujacyblog.pl/)
-
 ## Skills:
 [![image](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Sass-bf4080?logo=sass&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-JavaScript-F0DB0F?logo=JavaScript&logoColor=1a1a00&style=flat-square)](https://github.com/sebast4an)
 
