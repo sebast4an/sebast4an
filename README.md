@@ -1,5 +1,5 @@
 # Hi :wave:, I'm Sebastian
-I'm a frontend developer from Poland. I love JavaScript ecosystem and experiments in CSS. I never stop learning.
+I'm a frontend developer from Poland. I love JavaScript ecosystem and writing TypeScript code. I never stop learning.
 
 ## Skills:
 [![image](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-Sass-bf4080?logo=sass&logoColor=white&style=flat-square)](https://github.com/sebast4an) [![image](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white&style=flat-square)](https://github.com/sebast4an)
