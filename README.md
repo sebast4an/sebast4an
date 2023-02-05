@@ -1,5 +1,5 @@
 # Hi :wave:
-I'm a frontend developer from Poland.
+I'm a full-stack developer from Poland.
 
 ## Favorite technologies
 [![image](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://github.com/sebast4an)
